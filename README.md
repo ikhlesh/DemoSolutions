@@ -1,5 +1,5 @@
 # SSRS With Asp.net MVC, Using Existing SSRS Report in Asp.net MVC, How to use SSRS in Asp.net MVC, SSRS in MVC
-SSRS With Asp.net MVC, Using Existing SSRS Report in Asp.net MVC, How to use SSRS in Asp.net MVC, SSRS in MVC
+SSRS With Asp.net MVC, Using Existing SSRS Report in Asp.net MVC, How to use SSRS in Asp.net MVC, SSRS in MVC, SSRS in .Cshtml
 
 
 Today Morning when i was trying to use existing SSRS report in MVC Project, After searching on Internet i was not able
